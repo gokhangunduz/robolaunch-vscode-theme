@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "robolaunch" extension will be documented in this file.
+## [1.0.2]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Change color palette
 
-## [Unreleased]
+## [1.0.1]
 
-- Initial release
+- Create project and set color palette
