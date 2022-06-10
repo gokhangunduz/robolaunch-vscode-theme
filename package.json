@@ -1,0 +1,21 @@
+{
+    "name": "robolaunch",
+    "displayName": "robolaunch",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "robolaunch",
+                "uiTheme": "vs-dark",
+                "path": "./themes/robolaunch-color-theme.json"
+            }
+        ]
+    }
+}
