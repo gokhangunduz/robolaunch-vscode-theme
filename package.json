@@ -2,7 +2,7 @@
     "name": "robolaunch",
     "displayName": "Robolaunch",
     "description": "Robolaunch VS Code Theme",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "icon": "resources/robolaunch.png",
     "publisher": "gokhangunduz",
     "engines": {

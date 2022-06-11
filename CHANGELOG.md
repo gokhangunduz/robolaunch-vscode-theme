@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.3]
+
+- Add Icon and licence
+
 ## [1.0.2]
 
 - Change color palette
