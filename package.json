@@ -2,7 +2,7 @@
     "name": "robolaunch",
     "displayName": "Robolaunch",
     "description": "Robolaunch VS Code Theme",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "icon": "resources/robolaunch.png",
     "publisher": "gokhangunduz",
     "engines": {
@@ -16,7 +16,8 @@
         "url": "https://github.com/gokhangunduz/robolaunch-vscode-theme"
     },
     "keywords": [
-        "robolaunch"
+        "robolaunch",
+        "gokhangunduz"
     ],
     "contributes": {
         "themes": [
