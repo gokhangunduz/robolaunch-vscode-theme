@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.7]
+
+- Updated color-theme.json
+
 ## [1.0.6]
 
 - Updated package.json and color-theme.json
