@@ -1,6 +1,14 @@
 # Change Log
 
-## [1.0.8] & [1.0.7]
+## [1.0.9]
+
+- Fixed color-theme.json
+
+## [1.0.8]
+
+- Updated color-theme.json
+
+## [1.0.7]
 
 - Updated color-theme.json
 
