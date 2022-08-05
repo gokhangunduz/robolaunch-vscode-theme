@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "normal",
         "foreground": "#5cffff"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "normal",
         "foreground": "#ffb05c"
       }
     },
@@ -1848,7 +1848,7 @@
     "foreground": "#eeeeee",
     "focusBorder": "#35b8fa30",
     "selection.background": "#35b8fa80",
-    "scrollbar.shadow": "#35b8fa40",
+    "scrollbar.shadow": "#6dc8f740",
     "activityBar.foreground": "#eeeeee",
     "activityBar.background": "#111111",
     "activityBar.inactiveForeground": "#666666",
@@ -1923,8 +1923,8 @@
     "editorLineNumber.foreground": "#666666",
     "editorCursor.foreground": "#35b8fab3",
     "editorCursor.background": "#000000",
-    "editor.selectionBackground": "#35b8fa30",
-    "editor.inactiveSelectionBackground": "#35b8fa1e",
+    "editor.selectionBackground": "#35b8fa50",
+    "editor.inactiveSelectionBackground": "#35b8fa50",
     "editorWhitespace.foreground": "#35b8fa70",
     "editor.selectionHighlightBackground": "#35b8fa40",
     "editor.selectionHighlightBorder": "#35b8fa80",
@@ -2018,7 +2018,7 @@
     "tab.hoverBackground": "#35b8fa",
     "tab.hoverForeground": "#eeeeee",
     "tab.hoverBorder": "#35b8fa",
-    "scrollbarSlider.background": "#35b8fa26",
+    "scrollbarSlider.background": "#68ccff26",
     "scrollbarSlider.hoverBackground": "#35b8fa50",
     "scrollbarSlider.activeBackground": "#35b8fa",
     "progressBar.background": "#35b8fa",
@@ -2092,7 +2092,7 @@
     "minimapGutter.modifiedBackground": "#00c7ff",
     "minimapGutter.deletedBackground": "#ff0000",
     "minimap.findMatchHighlight": "#35b8fa1e",
-    "minimap.selectionHighlight": "#35b8fa30",
+    "minimap.selectionHighlight": "#35b8fa50",
     "minimap.errorHighlight": "#ff0000",
     "minimap.warningHighlight": "#ffd100",
     "minimap.background": "#0a0a0a",

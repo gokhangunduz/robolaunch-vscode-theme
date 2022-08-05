@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.1.1]
+
+- Fixed color-theme.json
+
+## [1.1.0]
+
+- Fixed color-theme.json
+
 ## [1.0.9]
 
 - Fixed color-theme.json
@@ -30,8 +38,8 @@
 
 ## [1.0.2]
 
-- Change color palette
+- Changed color palette
 
 ## [1.0.1]
 
-- Create project and set color palette
+- Created project and set color palette

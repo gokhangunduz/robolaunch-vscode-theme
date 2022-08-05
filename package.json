@@ -1,31 +1,31 @@
 {
-    "name": "robolaunch",
-    "displayName": "Robolaunch",
-    "description": "Robolaunch VS Code Theme",
-    "version": "1.0.9",
-    "icon": "resources/robolaunch.png",
-    "publisher": "gokhangunduz",
-    "engines": {
-        "vscode": "^1.68.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/gokhangunduz/robolaunch-vscode-theme"
-    },
-    "keywords": [
-        "robolaunch",
-        "gokhangunduz"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "robolaunch",
-                "uiTheme": "vs-dark",
-                "path": "./themes/robolaunch-color-theme.json"
-            }
-        ]
-    }
+  "name": "robolaunch",
+  "displayName": "Robolaunch",
+  "description": "Robolaunch VS Code Theme",
+  "version": "1.1.1",
+  "icon": "resources/robolaunch.png",
+  "publisher": "gokhangunduz",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokhangunduz/robolaunch-vscode-theme"
+  },
+  "keywords": [
+    "robolaunch",
+    "gokhangunduz"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "robolaunch",
+        "uiTheme": "vs-dark",
+        "path": "./themes/robolaunch-color-theme.json"
+      }
+    ]
+  }
 }
