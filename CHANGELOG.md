@@ -1,5 +1,29 @@
 # Change Log
 
+## [1.1.7]
+
+- Fixed color-theme.json
+
+## [1.1.6]
+
+- Fixed color-theme.json
+
+## [1.1.5]
+
+- Fixed color-theme.json
+
+## [1.1.4]
+
+- Fixed color-theme.json
+
+## [1.1.3]
+
+- Fixed color-theme.json
+
+## [1.1.2]
+
+- Fixed color-theme.json
+
 ## [1.1.1]
 
 - Fixed color-theme.json
